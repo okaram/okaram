@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @okaram
+- 👋 Hi, I’m @okaram (Orlando Karam)
 - 👀 I’m interested in programming, in basically any language.
 
 <!---
